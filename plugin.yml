@@ -1,0 +1,12 @@
+name: NerdCastleChat
+main: com.nerdcastlemc.NerdCastleChat
+version: 0.0
+author: Nateb1121
+
+commands:
+   nick:
+      description: Sets your nickname
+   chat:
+      description: Sets your chat color
+   who:
+      description: Shows who's on and where they are. 
